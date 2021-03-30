@@ -1,0 +1,6 @@
+Description: Pattern with packages for daisy configurations
+Name: jolla-configuration-daisy
+Requires:
+- patterns-sailfish-device-configuration-daisy
+
+Summary: Jolla Configuration daisy
